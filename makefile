@@ -5,5 +5,5 @@ run:
 	./a.out
 
 clean:
-	rm *.out a
+	rm a.out
 	echo Clean done
